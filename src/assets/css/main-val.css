@@ -1,0 +1,9 @@
+:root{
+    --MainTextColor:#303133;
+    --MainTextActiveColor:#F56C6C;
+    --BaseBackgroundColor:#fff;
+    --BaseBorderColor:#F56C6C;
+
+    /* 侧边栏展开宽度 */
+    --SideBarWidth:150px;
+}

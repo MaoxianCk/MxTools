@@ -1,0 +1,195 @@
+{
+    "typeList": [
+        {
+            "name": "日常",
+            "name_en": "daily",
+            "children": [
+                "cal-GPA",
+                "cal-age",
+                "cal-BMI",
+                "gen-random",
+                "convert-time",
+                "gen-QR_Code",
+                "text-compare",
+                "cal-disk"
+            ]
+        },
+        {
+            "name": "设计",
+            "name_en": "design",
+            "children": [
+                "selector-color"
+            ]
+        },
+        {
+            "name": "程序员",
+            "name_en": "design",
+            "children": [
+                "css-online",
+                "sql-beautify",
+                "regex-test",
+                "convert-hex",
+                "convert-code"
+            ]
+        }
+    ],
+    "moduleList": [
+        {
+            "name": "GPA计算器",
+            "name_en": "cal-GPA",
+            "description": "GPA计算器",
+            "img_filename": "",
+            "src_path": "calGPA.vue",
+            "key_words": [
+                "成绩",
+                "计算机",
+                "均分",
+                "calculator",
+                "score"
+            ]
+        },
+        {
+            "name": "年龄计算器",
+            "name_en": "cal-age",
+            "description": "年龄计算器",
+            "img_filename": "",
+            "src_path": "calAge.vue",
+            "key_words": [
+                "计算机",
+                "时间",
+                "年龄计算器",
+                "年龄计算机",
+                "calculator",
+                "time",
+                "age"
+            ]
+        },
+        {
+            "name": "BMI计算器",
+            "name_en": "cal-BMI",
+            "description": "BMI计算器",
+            "img_filename": "",
+            "src_path": "calBMI.vue",
+            "key_words": [
+                "体重",
+                "身高",
+                "肥胖",
+                "height",
+                "weight"
+            ]
+        },
+        {
+            "name": "密码/随机数生成器",
+            "name_en": "gen-random",
+            "description": "生成随机数、密码",
+            "img_filename": "",
+            "src_path": "",
+            "key_words": [
+                "工具",
+                "password"
+            ]
+        },
+        {
+            "name": "时间转换",
+            "name_en": "convert-time",
+            "description": "各类时间格式的转换",
+            "img_filename": "",
+            "src_path": "",
+            "key_words": [
+                "time",
+                "date"
+            ]
+        },
+        {
+            "name": "二维码生成/解析",
+            "name_en": "gen-QR_Code",
+            "description": "生成或解析二维码",
+            "img_filename": "",
+            "src_path": "",
+            "key_words": []
+        },
+        {
+            "name": "文本对比",
+            "name_en": "text-compare",
+            "description": "文本对比",
+            "img_filename": "",
+            "src_path": "",
+            "key_words": [
+                "重复",
+                "文字",
+                "文章",
+                "string",
+                "repeat"
+            ]
+        },
+        {
+            "name": "分区计算",
+            "name_en": "cal-disk",
+            "description": "硬盘分区时，计算实际分配的大小取整",
+            "img_filename": "",
+            "src_path": "",
+            "key_words": [
+                "硬盘",
+                "hardDisk"
+            ]
+        },
+        {
+            "name": "调色盘",
+            "name_en": "selector-color",
+            "description": "取色器，色值转换",
+            "img_filename": "",
+            "src_path": "",
+            "key_words": [
+                "取色器",
+                "色值转换",
+                "颜色"
+            ]
+        },
+        {
+            "name": "CSS调试",
+            "name_en": "css-online",
+            "description": "CSS在线测试",
+            "img_filename": "",
+            "src_path": "",
+            "key_words": []
+        },
+        {
+            "name": "SQL美化",
+            "name_en": "sql-beautify",
+            "description": "",
+            "img_filename": "",
+            "src_path": "",
+            "key_words": [
+                "数据库"
+            ]
+        },
+        {
+            "name": "正则测试",
+            "name_en": "regex-test",
+            "description": "正则测试器",
+            "img_filename": "",
+            "src_path": "",
+            "key_words": []
+        },
+        {
+            "name": "进制转换",
+            "name_en": "convert-hex",
+            "description": "2/4/8/16等进制转换",
+            "img_filename": "",
+            "src_path": "",
+            "key_words": []
+        },
+        {
+            "name": "编码转换",
+            "name_en": "convert-code",
+            "description": "MD5、SHA、Base64等转换",
+            "img_filename": "",
+            "src_path": "",
+            "key_words": [
+                "MD5",
+                "SHA",
+                "Base64"
+            ]
+        }
+    ]
+}
